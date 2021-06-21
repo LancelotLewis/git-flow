@@ -6,6 +6,7 @@ Learning git flow
 3. dev 3
 
 1. dev1 1
+2. dev1 2
 
 1. rebase 1
 2. rebase 2
